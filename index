@@ -1,1 +1,18 @@
+<!doctype html>
+<html lang="en">
+<head>
+   <title>travel</title>
+   <div>
+     <ul>
+       <li>Travel</li>
+       <li>首頁</li>
+       <li>旅遊行程</li>
+       <li>景點</li>
+       <li>評論區</li>
+     </ul>
+   </div>
+</head>
+<body>
 
+</body>
+</html>
